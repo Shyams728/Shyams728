@@ -8,7 +8,7 @@
 ---
 
 ### **Objective**
-Seeking a Data Scientist or Machine Learning Engineer position where I can apply my skills and experience in mining machinery engineering to develop and implement data-driven solutions that improve the productivity and longevity of mining equipment.
+I'm a dedicated Data Scientist with a unique background in mining machinery engineering. My passion lies in exploring the realm of data science to create data-driven solutions that elevate productivity and efficiency. Join me on my journey of harnessing data's power to drive innovation and positive change.
 
 ---
 
