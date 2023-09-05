@@ -13,12 +13,13 @@ Seeking a Data Scientist or Machine Learning Engineer position where I can apply
 ---
 
 ### **Education**
-**Advanced Python for Data Science**
-*IIM (Indian Institute of Management), Bangalore*
-*September 2023 - December 2023*
 
 **IITM Advance Professional Programing with Master Data Science Program with Guvi**
 *May 2023 - August 2023*
+
+**Advanced Python for Data Science**
+*IIM (Indian Institute of Management), Bangalore*
+*May 2023 - July 2023*
 
 **Bachelors in Engineering**
 *June 2017 - June 2019*
