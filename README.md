@@ -1,15 +1,7 @@
-- 👋 Hi, I’m @Shyams728
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 
 **Shyamsundar Dharwad**
 
 **Email:** shyamsundardharwad@gmail.com | **Phone:** (+91) 789 247 0215
-**Address:** 72/1 Nandipur, Katur, Uttara Kannada, KA, Pin code: 581346
-**City/Town:** Mundgod 
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/shyamsundar-dharwad-052690aa/)
 **GitHub:** [GitHub Profile](https://github.com/Shyams728)
 
@@ -87,6 +79,13 @@ Recipient of an award from CEO and President of Komatsu for overall contribution
 ---
 
 <!---
+- 👋 Hi, I’m @Shyams728
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+
 Shyams728/Shyams728 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
