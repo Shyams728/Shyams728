@@ -1,7 +1,7 @@
 
 **Shyamsundar Dharwad**
 
-**Email:** shyamsundardharwad@gmail.com | **Phone:** (+91) 789 247 0215
+**Email:** shyamsundardharwad@gmail.com 
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/shyamsundar-dharwad-052690aa/)
 **GitHub:** [GitHub Profile](https://github.com/Shyams728)
 
